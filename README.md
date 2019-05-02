@@ -12,3 +12,7 @@ To get the example working, added Sha256 sha and replace all Sha256 calls to sha
 https://arduino.stackexchange.com/questions/65038/hmac-sha256-in-arduino-use-case/65041#65041
 
 Tested on Arduino IDE 1.8.9 as of May 2019. Windows 10 platform.
+
+Libary installation:  
+Make a SHA folder in the path below and put the two libary files (sha256.cpp, sha256.h) in it.
+C:\Program Files (x86)\Arduino\libraries\
